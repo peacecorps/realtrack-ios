@@ -46,10 +46,10 @@ Project 2
     * Event 1
     * ....
 
-##User Interface/User Experience
+###User Interface/User Experience
 Wireframes showing the suggested user interface can be found [here.](http://prezi.com/iupyevbidjgz/?utm_campaign=share&utm_medium=copy)
   
-##Android Version
+###Android Version
 An android version has been created and the repo can be found [here.](https://github.com/neeraj2608/realtrack)
 
 
